@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932903176356",
+    "project_id": "chat-app-e1185",
+    "storage_bucket": "chat-app-e1185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932903176356:android:2493ffc27b05c0413f7e31",
+        "android_client_info": {
+          "package_name": "com.omer.secure_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932903176356-mtf6aldlnkurr43h4gq6jt6esfsn4anp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYnTBF2KNlY6iXy0p_UBJwtJlKXTkJ7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932903176356-mtf6aldlnkurr43h4gq6jt6esfsn4anp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
